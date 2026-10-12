@@ -1,6 +1,6 @@
 # brauser
 <a href="https://github.com/Luapree/brauser/actions/workflows/pages/pages-build-deployment/"><img src="https://github.com/Luapree/brauser/actions/workflows/pages/pages-build-deployment/badge.svg" alt="compilar"></a><br>
-<a href="https://discord.gg/yManCTBmq"><img alt="Discord" src="https://img.shields.io/discord/1512139882829582347"></a>
+<a href="https://discord.gg/bcdrEEQZCb"><img alt="Discord" src="https://img.shields.io/discord/1512139882829582347"></a>
 </p>
 
 brauser is a custom lightweight homepage intended for devices not intended to browse the internet<br>
