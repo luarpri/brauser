@@ -22,6 +22,6 @@ Run:<br>
 
 `docker run -d --name brauser -P brauser`
 
-## Lisence
+## License
 
-[MIT Lisence](https://github.com/Luapree/brauser/blob/main/LICENSE)
+[MIT Liscense](https://github.com/Luapree/brauser/blob/main/LICENSE)
