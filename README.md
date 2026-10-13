@@ -24,4 +24,4 @@ Run:<br>
 
 ## License
 
-[MIT Liscense](https://github.com/Luapree/brauser/blob/main/LICENSE)
+[MIT License](https://github.com/Luapree/brauser/blob/main/LICENSE)
