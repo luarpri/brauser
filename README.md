@@ -20,8 +20,8 @@ Build:<br>
 
 Run:<br>
 
-`docker run -d --name brauser -P brauser`
+`docker run -d -p 8080:80 --name brauser brauser`
 
 ## License
 
-[MIT License](https://github.com/Luapree/brauser/blob/main/LICENSE)
+[MIT License](https://github.com/luarpri/brauser/blob/main/LICENSE)
