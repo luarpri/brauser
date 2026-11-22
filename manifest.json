@@ -1,0 +1,22 @@
+{
+  "lang": "en-us",
+  "name": "brauser",
+  "short_name": "brauser",
+  "description": "A custom homepage for miscelaneous devices",
+  "start_url": "./",
+  "scope": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "any",
+  "display": "fullscreen",
+  "icons": [
+      {
+          "src": "./icon192.png",
+          "sizes": "192x192"
+      },
+	  {
+		"src": "./icon512.png",
+        "sizes": "512x512"
+	  }
+  ]
+}
